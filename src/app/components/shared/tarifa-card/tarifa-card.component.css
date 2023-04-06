@@ -1,0 +1,15 @@
+.card-titulo{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.7rem;
+}
+
+img{
+    filter: grayscale(100%)
+}
+
+.card-precio{
+    font-size: 4rem;
+    font-weight: bold;
+    color: #6599ff
+}

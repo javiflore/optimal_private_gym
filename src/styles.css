@@ -1,1 +1,64 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+/* Estructura */
+
+body{
+    height: 100dvh;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 15%;
+}
+
+nav{
+    height: 7%;
+}
+
+main{
+    min-height: 68%;
+    padding-bottom: 25%;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    height: 10%
+}
+
+/* Estilos generales */
+
+body{
+    color: #000166;
+}
+
+.fondo-azul-oscuro{
+    background-color: #000166;
+    color: white;
+}
+
+.fondo-azul-claro{
+    background-color: #6599ff;
+    color: white;
+}
+
+.sombreado-azul{
+    box-shadow: 0px 5px 25px #00016659;
+}
+
+.color-azul-claro{
+    color: #6599ff;
+}
+
+.color-azul-oscuro{
+    color: #000166;
+}
