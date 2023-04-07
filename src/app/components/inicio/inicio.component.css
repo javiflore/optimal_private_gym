@@ -1,13 +1,24 @@
-.container{
-    padding: 0;
-    margin: 0;
-    border-radius: 1em;
+div{
+    padding: 1.5rem;
+}
+
+h1{
+    
+    font-weight: bold;
 }
 
 p{
-    font-size: 1.25rem;
+    margin: 0;
+    /* padding: 0rem 1.25rem 1.25rem; */
+    font-size: 1.35rem;
+    text-align: center;
+    /* background-color: pink; */
 }
 
 span.color-azul-claro{
     font-weight: bold;
+}
+
+.fondo-gris{
+    background-color:#6598ff30;
 }
