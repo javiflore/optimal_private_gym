@@ -42,7 +42,7 @@ body{
 }
 
 .fondo-azul-oscuro{
-    background-color: #000166;
+    background-color: #b02885;
     color: white;
 }
 
@@ -52,7 +52,7 @@ body{
 }
 
 .sombreado-azul{
-    box-shadow: 0px 5px 25px #00016659;
+    box-shadow: 0px 5px 25px hsla(239, 100%, 20%, 0.349);
 }
 
 .color-azul-claro{

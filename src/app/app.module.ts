@@ -10,6 +10,7 @@ import { NavbarComponent } from './components/shared/navbar/navbar.component';
 import { TarifasComponent } from './components/tarifas/tarifas.component';
 import { TarifaCardComponent } from './components/shared/tarifa-card/tarifa-card.component';
 import { EquipoComponent } from './components/equipo/equipo.component';
+import { HorarioComponent } from './components/horario/horario.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { EquipoComponent } from './components/equipo/equipo.component';
     NavbarComponent,
     TarifasComponent,
     TarifaCardComponent,
-    EquipoComponent
+    EquipoComponent,
+    HorarioComponent
   ],
   imports: [
     BrowserModule,

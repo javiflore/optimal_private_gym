@@ -1,6 +1,10 @@
 <nav class="navbar navbar-dark fondo-azul-oscuro sombreado-azul">
     <div class="container-fluid">
-        <p class="text-capitalize mb-0">{{pagina}}</p>
+      <div class="d-flex">
+        <img [routerLink]="['/inicio']" src="../../../../assets/logos/logo-modified.png" style="max-height: 2.5rem;" alt="">
+        <!-- <p class="text-capitalize mb-0 ms-3">{{pagina}}</p> -->
+      </div>
+      
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarDropdown" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
