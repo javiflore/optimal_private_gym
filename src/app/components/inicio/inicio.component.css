@@ -2,9 +2,17 @@ div{
     padding: 1.5rem;
 }
 
+.bienvenidos{
+    font-size: 2.5rem;
+}
+
 h1{
     
     font-weight: bold;
+}
+
+i{
+    padding: 0 0.5rem;
 }
 
 p{
@@ -21,4 +29,9 @@ span.color-azul-claro{
 
 .fondo-gris{
     background-color:#6598ff30;
+}
+
+img{
+    width: 100%;
+    border-radius: 0.5rem;
 }
