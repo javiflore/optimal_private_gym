@@ -42,12 +42,22 @@ body{
 }
 
 .fondo-azul-oscuro{
-    background-color: #b02885;
+    background-color: #000166;
+    color: white;
+}
+
+.fondo-naranja{
+    background-color: #f5ac37;
     color: white;
 }
 
 .fondo-azul-claro{
     background-color: #6599ff;
+    color: white;
+}
+
+.fondo-naranja-claro{
+    background-color: #efba64;
     color: white;
 }
 
@@ -61,4 +71,8 @@ body{
 
 .color-azul-oscuro{
     color: #000166;
+}
+
+.fondo-gris{
+    background-color:#6598ff30;
 }
