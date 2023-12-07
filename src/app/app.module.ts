@@ -11,6 +11,7 @@ import { TarifasComponent } from './components/tarifas/tarifas.component';
 import { TarifaCardComponent } from './components/shared/tarifa-card/tarifa-card.component';
 import { EquipoComponent } from './components/equipo/equipo.component';
 import { HorarioComponent } from './components/horario/horario.component';
+import { AvisosLegalesComponent } from './components/avisos-legales/avisos-legales.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { HorarioComponent } from './components/horario/horario.component';
     TarifasComponent,
     TarifaCardComponent,
     EquipoComponent,
-    HorarioComponent
+    HorarioComponent,
+    AvisosLegalesComponent
   ],
   imports: [
     BrowserModule,
