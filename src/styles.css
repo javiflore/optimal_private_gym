@@ -76,3 +76,11 @@ body{
 .fondo-gris{
     background-color:#6598ff30;
 }
+
+.cookies {
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+}
