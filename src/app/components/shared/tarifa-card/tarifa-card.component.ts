@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-tarifa-card',
@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./tarifa-card.component.css']
 })
 export class TarifaCardComponent {
+
+  @Input() titulo!: string;
+  @Input() precio!: string;
+  @Input() descripcion!: string;
 
 }
