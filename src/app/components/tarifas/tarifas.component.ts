@@ -28,7 +28,7 @@ export class TarifasComponent {
     },
     {
       titulo: 'Entrenamiento personal premium',
-      precio: '89€',
+      precio: '95€',
       descripcion: 'Entrenamiento personalizado, ajustado a tus necesidades y objetivos y además dispondrás de entrada a cualquiera de nuestras clases guiadas (pilates, funcional, spinning...).'   
 
     },
